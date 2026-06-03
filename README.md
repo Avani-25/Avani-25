@@ -34,12 +34,12 @@ MongoDB • PostgreSQL
 
 AWS • Google Cloud • Docker • Git
 
-# 📌 Featured Projects
+### 📌 Featured Projects
 AI-Driven Smart Health Tracker & Diagnostic Tool
 
 An intelligent healthcare platform for real-time monitoring, anomaly detection, and AI-assisted diagnostics.
 
-# Connect With Me
+### Connect With Me
 
 📧 Email: avanimohite25@gmail.com
 
@@ -50,6 +50,6 @@ www.linkedin.com/in/avani-mohite-15a00a301
 https://github.com/Avani-25Connect With Me
 
 
-# ⚡ Fun Fact
+### ⚡ Fun Fact
 
 I enjoy building AI solutions that combine Machine Learning, Data Engineering, and Generative AI to create impactful products for real-world challenges.

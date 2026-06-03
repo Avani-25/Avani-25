@@ -9,28 +9,28 @@ My goal is to develop scalable AI-powered products that solve meaningful problem
 
 ## 🔭 Currently Working On
 
-# 🛠 Tech Stack
-Programming
+### 🛠 Tech Stack
+### Programming
 
 Python
 
-AI & Machine Learning
+### AI & Machine Learning
 
 TensorFlow • PyTorch • Scikit-Learn • NLP • Deep Learning • Generative AI
 
-Data Science
+### Data Science
 
 Pandas • NumPy • Matplotlib • Jupyter Notebook
 
-Backend Development
+### Backend Development
 
 Flask • Django
 
-Databases
+### Databases
 
 MongoDB • PostgreSQL
 
-Cloud & DevOps
+### Cloud & DevOps
 
 AWS • Google Cloud • Docker • Git
 

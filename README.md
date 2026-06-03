@@ -49,13 +49,6 @@ www.linkedin.com/in/avani-mohite-15a00a301
 🐙 GitHub:
 https://github.com/Avani-25Connect With Me
 
-📧 Email: avanimohite25@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/avani-mohite-15a00a301
-
-🐙 GitHub:
-https://github.com/Avani-25
 
 # ⚡ Fun Fact
 

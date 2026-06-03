@@ -7,9 +7,9 @@ I am a B.Tech student specializing in Artificial Intelligence & Data Science wit
 
 My goal is to develop scalable AI-powered products that solve meaningful problems in healthcare, automation, and decision-making.
 
-🔭 Currently Working On
+## 🔭 Currently Working On
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 Programming
 
 Python
@@ -34,12 +34,12 @@ Cloud & DevOps
 
 AWS • Google Cloud • Docker • Git
 
-📌 Featured Projects
+# 📌 Featured Projects
 AI-Driven Smart Health Tracker & Diagnostic Tool
 
 An intelligent healthcare platform for real-time monitoring, anomaly detection, and AI-assisted diagnostics.
 
-Connect With Me
+# Connect With Me
 
 📧 Email: avanimohite25@gmail.com
 
@@ -57,6 +57,6 @@ www.linkedin.com/in/avani-mohite-15a00a301
 🐙 GitHub:
 https://github.com/Avani-25
 
-⚡ Fun Fact
+# ⚡ Fun Fact
 
 I enjoy building AI solutions that combine Machine Learning, Data Engineering, and Generative AI to create impactful products for real-world challenges.

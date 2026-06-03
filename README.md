@@ -1,8 +1,3 @@
-
-
-<!--
-**Avani-25/Avani-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi, I'm Avani Mohite
  Data Scientist | GenAI Developer
 

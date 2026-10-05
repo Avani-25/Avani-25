@@ -1,5 +1,5 @@
 ## Hi, I'm Avani Mohite
- Data Scientist | GenAI Developer
+AI/ML Developer
 
 🚀 Passionate about building intelligent systems that transform data into real-world solutions.
 
